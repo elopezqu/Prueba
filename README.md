@@ -20,7 +20,7 @@
 <h3 style="text-align:center;">INFORME DE LABORATORIO</h3>
 <table>
  <theader>
-  <tr style="background-color:#DF4423;"><th>INFORMACION BASICA</th></tr>
+  <tr style="background-color:#DF4423;"><th>INFORMACIÓN BÁSICA</th></tr>
  </theader>
  <tbody>
   <tr><td>ASIGNATUA:</td><td>Estructura de Datos y Algoritmos</td></tr>
