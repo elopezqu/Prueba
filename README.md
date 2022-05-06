@@ -17,14 +17,16 @@
     </tbody>
 </table>
 </div>
-<h3 style="text-align:center;">INFORME DE LABORATORIO</h3>
+<div align="center">
+ <h3>INFORME DE LABORATORIO</h3>
+</div>
 <table>
  <theader>
   <tr><th colspan="6" bgcolor="red">INFORMACIÓN BÁSICA</th></tr>
  </theader>
  <tbody>
   <tr><td>ASIGNATUA:</td><td colspan="5">Estructura de Datos y Algoritmos</td></tr>
-  <tr><td>TÍTULO DE LA PRACTICA:</td><td>Revisión de elementos de programación(Parte I)</td></tr>
+  <tr><td>TÍTULO DE LA PRACTICA:</td><td colspan="5">Revisión de elementos de programación(Parte I)</td></tr>
   <tr><td>NÚMERO DE PRÁCTICA:</td><td>Practica de Laboratorio 01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td></tr>
   <tr><td>FECHA DE PRESENTACIÓN:</td><td>06/05/2022</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">8:30 am</td></tr>
   <tr><td>INTEGRANTES:</td><td colspan="3">Edson Joel López Quispe</td><td>NOTA:</td><td>...</td></tr>
