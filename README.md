@@ -2,13 +2,13 @@
 <table>
     <theader>
         <tr>
-            <td><img src="https://github.com/rescobedoq/pw2/blob/main/epis.png?raw=true" alt="EPIS" style="width:50%; height:auto"/></td>
+            <td><img src="./epis.png" alt="EPIS" style="width:50%; height:auto"/></td>
             <th>
                 <span style="font-weight:bold;">UNIVERSIDAD NACIONAL DE SAN AGUSTIN</span><br />
                 <span style="font-weight:bold;">FACULTAD DE INGENIERÍA DE PRODUCCIÓN Y SERVICIOS</span><br />
                 <span style="font-weight:bold;">ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS</span>
             </th>
-            <td><img src="https://github.com/rescobedoq/pw2/blob/main/abet.png?raw=true" alt="ABET" style="width:50%; height:auto"/></td>
+            <td><img src="./abet.png" alt="ABET" style="width:50%; height:auto"/></td>
         </tr>
     </theader>
     <tbody>
@@ -31,5 +31,14 @@
   <tr><td>FECHA DE PRESENTACIÓN:</td><td>06/05/2022</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">8:30 am</td></tr>
   <tr><td>INTEGRANTES:</td><td colspan="3">Edson Joel López Quispe</td><td>NOTA:</td><td>...</td></tr>
   <tr><td>DOCENTE:</td><td colspan="5">Richart Smith Escobedo Quispe - rescobedoq@unsa.edu.pe</td></tr>
+ </tbody>
+</table>
+<table>
+ <theader>
+  <tr><th>SOLUCIÓN Y RESULTADOS</th></tr>
+ </theader>
+ <tbody>
+  <tr><td>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:<br>Se crearon dos archicos .java uno imprime un Hola Mundo y el otro un Bienvenidos</td></tr>
+  <tr><td>II. SOLUCIÓN DEL CUESTIONARIO:<br>-Git nos permite poder hacer un seguimiento al código que trabajamos y GitHub nos permite compartir en código y trabajar colaborativamente<br>-Uno muy importante es comentar los commits, otro seria crear una rama alterna cuando se quiere hacer modificaciones al codigo principal<br>-Son prácticas que todo programador debe de tener en cuenta como comentar el código, identar las líneas del código etc.<br>III. CONCLUSIONES:<br>...</td></tr>
  </tbody>
 </table>
